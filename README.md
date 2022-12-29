@@ -1,6 +1,6 @@
 # Portfolio
 TicTacToe Program:
-To play the game, please visit the webpage below
+To play the game, please visit this webpage:
 https://thekatarius.github.io/Portfolio/TicTacToe
 
 Description:
